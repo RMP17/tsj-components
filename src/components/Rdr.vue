@@ -1,1 +1,1 @@
-<template>  <div class="hello">    <p>hola rider actualizado 0.0.1</p>  </div></template><script>export default {  name: 'Rdr',}</script><style scoped></style>
+<template>  <div class="hello">    <p>hola rider actualizado 0.0.1///</p>  </div></template><script>export default {  name: 'Rdr',}</script><style scoped></style>
