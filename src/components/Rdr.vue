@@ -1,0 +1,1 @@
+<template>  <div class="hello">    hola rider  </div></template><script>export default {  name: 'Rdr',}</script><style scoped></style>
